@@ -1,0 +1,16 @@
+;setTextbox:hide -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+;
+bgm:songs/银河-105.MP3 -enter=2000 -unlockname=热爱105℃的你;
+changeFigure:songs/105.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
+setAnimation:enter-from-bottom -target=fig-center -next;
+setTextbox:on -next;
+;
+miniAvatar:miniavatars/41.png;
+银河可循:那怎么能少得了《[热爱105℃的你 日语版](style=color:#FF7F27)》呢;
+这是我第一次刷到阿叽的歌曲;
+当时学一天后累了，被阿叽温柔的歌声治愈了;
+miniAvatar:miniavatars/11.png;
+早稻叽:这首也是恶魔第一首破千万播放的歌;
+可能在座很多储备粮的入坑曲也是它呢;

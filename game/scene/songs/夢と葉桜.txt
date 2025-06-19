@@ -1,0 +1,18 @@
+setTextbox:hide -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+;
+bgm:songs/茶壶-夢と葉桜.MP3 -enter=2000 -unlockname=心墙;
+changeFigure:songs/夢と葉桜.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
+setTextbox:on -next;
+;
+miniAvatar:miniavatars/41.png;
+茶茶壶x:《[夢と葉桜](style=color:#FF7F27)》;
+忘记想说什么了，总之就是可爱;
+miniAvatar:miniavatars/13.png;
+早稻叽:好好好好好;
+changeFigure: -next;
+changeBg:p4.png -next;
+miniAvatar:miniavatars/31.png;
+楚蓓亮:看！又变亮了一些;
+快要完全照亮了！大家再努努力推荐点新歌！;

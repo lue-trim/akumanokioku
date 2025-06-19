@@ -1,0 +1,16 @@
+setTextbox:hide -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+;
+bgm:songs/卤鹅-愛がなにかわからない.MP3 -enter=2000 -unlockname=心墙;
+changeFigure:songs/愛がなにかわかれない.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
+setAnimation:enter-from-bottom -target=fig-center -next;
+setTextbox:on -next;
+;
+miniAvatar:miniavatars/41.png;
+卤鹅菌:《[愛がなにかわからない](style=color:#FF7F27)》，应该够新了吧？;
+第一次听到它是在24年的BW上，阿叽把它作为新专辑的主打歌小漏了一手;
+当时阿叽一开口，我就被它惊艳到了;
+直到现在，我觉得整首专辑里最戳我的歌也还是非它莫属！;
+miniAvatar:miniavatars/12.png;
+早稻叽:好诶，谢谢支持！;

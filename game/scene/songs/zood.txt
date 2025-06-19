@@ -1,0 +1,17 @@
+;setTextbox:hide -next;
+changeFigure: -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+;
+bgm:songs/墨霖-zood.MP3 -enter=2000 -unlockname=心墙;
+changeFigure:songs/zood.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
+setAnimation:enter-from-bottom -target=fig-center -next;
+changeBg:p1.png -next;
+setTextbox:on -next;
+;
+miniAvatar:miniavatars/51.png;
+不愿意透露姓名只会整烂活的墨霖喵:当然啦，近一些的歌我也有印象很深刻的|比如这首《[Zood](style=color:#FF7F27)》;
+远方响起一阵纯真的歌声，似乎是雪豹传出的声音？;
+但仔细听像是某只小猪发出来的。;
+miniAvatar:miniavatars/14.png;
+早稻叽:……我可以撤回吗？;

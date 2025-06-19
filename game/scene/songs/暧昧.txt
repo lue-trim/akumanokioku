@@ -1,0 +1,15 @@
+setTextbox:hide -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+;
+bgm:songs/薯条-暧昧.MP3 -enter=2000 -unlockname=心墙;
+changeFigure:songs/暧昧.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
+setAnimation:enter-from-bottom -target=fig-center -next;
+setTextbox:on -next;
+;
+miniAvatar:miniavatars/41.png;
+一只特立独行的猪咪-:我要推荐的是《[暧昧](style=color:#FF7F27)》;
+这首歌阿叽直播唱过了好多次，但还是投稿的vlog版最有韵味;
+啊叽的歌声总是那样热烈而真挚，却又娓娓道来，诉说着难以言明的情感;
+miniAvatar:miniavatars/11.png;
+早稻叽:喔！;

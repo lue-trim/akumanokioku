@@ -1,0 +1,15 @@
+;setTextbox:hide -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+;
+bgm:songs/夜辰-からくりピエロ.MP3 -enter=2000 -unlockname=心墙;
+changeFigure:songs/からくりピエロ.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
+setAnimation:enter-from-bottom -target=fig-center -next;
+setTextbox:on -next;
+;
+miniAvatar:miniavatars/41.png;
+单推叽叽的夜辰:比较难忘的还有这首《[からくりピエロ](style=color:#FF7F27)》;
+当时恶魔刚出道不久，唱到活动小丑的时候，;
+正好遇到帕里来查房，给人家唱自闭了;
+miniAvatar:miniavatars/12.png;
+早稻叽:诶嘿嘿，谢谢夸奖~;

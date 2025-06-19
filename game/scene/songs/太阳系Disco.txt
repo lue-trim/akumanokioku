@@ -1,0 +1,20 @@
+setTextbox:hide -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+;
+bgm:songs/玖乃-太阳系Disco.mp3 -enter=2000 -unlockname=心墙;
+changeFigure:songs/太阳系Disco.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
+setAnimation:enter-from-bottom -target=fig-center -next;
+setTextbox:on -next;
+;
+miniAvatar:miniavatars/41.png;
+玖乃天下第一:黑历史是吧？|来一首《[太阳系Disco](style=color:#FF7F27)》！;
+令人羞耻的黑历史赛高daze！;
+miniAvatar:miniavatars/14.png;
+早稻叽:……（宕叽中）;
+changeFigure: -next;
+changeBg:p2.png -next;
+miniAvatar:miniavatars/51.png;
+楚北良:快看快看，头顶又变亮了一些！
+miniAvatar:miniavatars/12.png;
+早稻叽:真的耶！那我们继续吧！

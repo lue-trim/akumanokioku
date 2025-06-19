@@ -1,0 +1,18 @@
+setTextbox:hide -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+;
+bgm:songs/人壬菌-新春小记.MP3 -enter=2000 -unlockname=心墙;
+changeFigure:songs/新春小记.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
+setAnimation:enter-from-bottom -target=fig-center -next;
+setTextbox:on -next;
+;
+miniAvatar:miniavatars/51.png;
+人壬菌:《[新春小记](style=color:#FF7F27)》算是我正式认识叽叽的地方了;
+之前虽然有听过叽的歌但也只是对早稻叽这个名字有个眼熟;
+直到听了新春小记后才被狠狠圈粉;
+然后觉得合唱版里叽的部分不够听，就去单曲循环了单人版。;
+副歌这一段是我最喜欢的一段，;
+直到现在我的脑里还时不时会突然开始循环;
+miniAvatar:miniavatars/12.png;
+早稻叽:确实！第一次上拜年祭也是很难忘的记忆了;

@@ -1,0 +1,18 @@
+setTextbox:hide -next;
+changeFigure: -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+;
+bgm:songs/墨霖-瞬き.MP3 -enter=2000 -unlockname=心墙;
+changeFigure:songs/瞬き.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
+setAnimation:enter-from-bottom -target=fig-center -next;
+changeBg:p1.png;
+setTextbox:on -next;
+;
+miniAvatar:miniavatars/51.png;
+非常帅的墨霖喵（删掉前缀）:这是开始回忆起老歌了吗？|我很中意18年和最大值胖达合作的《[瞬き](style=color:#FF7F27)》;
+第一次遇到叽叽就是从这首歌开始的;
+从初见到相知，六年日夜的陪伴编织成最美好的故事。;
+直播间里的歌声、游戏时的笑声、谈心时的感动，|这些看似平凡的瞬间，却因有你而闪闪发光。;
+miniAvatar:miniavatars/11.5.png;
+早稻叽:哇……这是真的已经很有年头了;

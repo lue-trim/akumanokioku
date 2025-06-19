@@ -1,0 +1,15 @@
+setTextbox:hide -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+;
+bgm:songs/麟-银色飞行船.MP3 -enter=2000 -unlockname=心墙;
+changeFigure:songs/银色飞行船.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
+setAnimation:enter-from-bottom -target=fig-center -next;
+setTextbox:on -next;
+;
+miniAvatar:miniavatars/41.png;
+麟昀:我的入坑曲是《[银色飞行船](style=color:#FF7F27)》！;
+当时听到了这首歌，就想着，|哇，怎么会有如此好听的歌;
+并且歌手还唱的那么入情，心中的悲伤也瞬间就消去了。;
+miniAvatar:miniavatars/12.png;
+早稻叽:又是被治愈了呢;

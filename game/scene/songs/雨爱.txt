@@ -1,0 +1,15 @@
+setTextbox:hide -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+;
+bgm:songs/小行星-雨爱.MP3 -enter=2000 -unlockname=雨爱;
+changeFigure:songs/雨爱.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
+setAnimation:enter-from-bottom -target=fig-center -next;
+setTextbox:on -next;
+;
+miniAvatar:miniavatars/31.png;
+C调小行星:《[雨爱](style=color:#FF7F27)》是我的入坑曲！;
+当时那段时间可能情绪比较低落;
+但是听到了叽叽又稳又甜的声线，感觉被狠狠地治愈了;
+miniAvatar:miniavatars/11.5.png;
+早稻叽:好诶，谢谢喜欢！;

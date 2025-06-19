@@ -1,0 +1,13 @@
+;setTextbox:hide -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+;
+bgm:songs/凌霜-105.MP3 -enter=2000;
+changeFigure:songs/105光头.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
+setAnimation:enter-from-bottom -target=fig-center -next;
+setTextbox:on -next;
+;
+miniAvatar:miniavatars/51.png;
+凌霜:而且，它还有阿叽的光头！;
+miniAvatar:miniavatars/13.png;
+早稻叽:啊啊啊啊啊啊啊！;

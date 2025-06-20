@@ -5,7 +5,7 @@ changeFigure: -right -next;
 ;
 bgm:songs/麟-たばこ.MP3 -enter=2000 -unlockname=たばこ;
 changeFigure:songs/たばこ.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
-changeBg:p1.png;
+changeBg:p1.png -next;
 setTextbox:on -next;
 ;
 miniAvatar:miniavatars/41.png;

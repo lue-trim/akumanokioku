@@ -3,7 +3,7 @@ setTextbox:hide -next;choose:简体中文:demo_zh_cn.txt|日本語:demo_ja.txt|E
 changeFigure: -left -next;
 changeFigure: -right -next;
 changeFigure: -next;
-changeBg:stage.png;
+changeBg:stage.png -next;
 setTransition: -target=bg-main -enter=blur -exit=blur;
 changeFigure:11.png -duration=1000 -next;
 setAnimation:enter-from-bottom -target=fig-center -next;

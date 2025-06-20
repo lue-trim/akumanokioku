@@ -2,7 +2,7 @@ setTextbox:hide -next;
 changeFigure: -left -next;
 changeFigure: -right -next;
 ;
-bgm:songs/卤鹅-愛がなにかわからない.MP3 -enter=2000 -unlockname=心墙;
+bgm:songs/卤鹅-愛がなにかわからない.MP3 -enter=2000 -unlockname=愛がなにかわからない;
 changeFigure:songs/愛がなにかわかれない.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
 setAnimation:enter-from-bottom -target=fig-center -next;
 setTextbox:on -next;

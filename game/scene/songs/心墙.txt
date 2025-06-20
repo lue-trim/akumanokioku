@@ -5,7 +5,7 @@ changeFigure: -right -next;
 ;
 bgm:songs/卤鹅-心墙.mp3 -enter=2000 -unlockname=心墙;
 changeFigure:songs/心墙.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
-changeBg:chaos.png;
+changeBg:chaos.png -next;
 setTextbox:on -next;
 ;
 miniAvatar:miniavatars/51.png;

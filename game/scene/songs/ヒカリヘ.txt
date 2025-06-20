@@ -8,7 +8,7 @@ miniAvatar:miniavatars/31.png;
 miniAvatar:miniavatars/11.png;
 早稻叽:大家，应该都不会忘了这首歌的吧——;
 ;
-bgm:songs/ヒカリヘ.mp3 -enter=2000 -unlockname=心墙;
+bgm:songs/ヒカリヘ.mp3 -enter=2000 -unlockname=ヒカリヘ;
 changeFigure:songs/ヒカリヘ.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
 setAnimation:enter-from-bottom -target=fig-center -next;
 setTextbox:on -next;

@@ -2,7 +2,7 @@ setTextbox:hide -next;
 changeFigure: -left -next;
 changeFigure: -right -next;
 ;
-bgm:songs/人壬菌-新春小记.MP3 -enter=2000 -unlockname=心墙;
+bgm:songs/人壬菌-新春小记.MP3 -enter=2000 -unlockname=新春小记;
 changeFigure:songs/新春小记.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
 setAnimation:enter-from-bottom -target=fig-center -next;
 setTextbox:on -next;

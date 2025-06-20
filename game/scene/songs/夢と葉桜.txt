@@ -2,7 +2,7 @@ setTextbox:hide -next;
 changeFigure: -left -next;
 changeFigure: -right -next;
 ;
-bgm:songs/茶壶-夢と葉桜.MP3 -enter=2000 -unlockname=心墙;
+bgm:songs/茶壶-夢と葉桜.MP3 -enter=2000 -unlockname=夢と葉桜;
 changeFigure:songs/夢と葉桜.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
 setTextbox:on -next;
 ;

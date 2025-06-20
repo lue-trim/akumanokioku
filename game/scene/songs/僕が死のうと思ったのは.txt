@@ -2,7 +2,7 @@ setTextbox:hide -next;
 changeFigure: -left -next;
 changeFigure: -right -next;
 ;
-bgm:songs/TEPTEP-僕が死のうと思ったのは.MP3 -enter=2000 -unlockname=心墙;
+bgm:songs/TEPTEP-僕が死のうと思ったのは.MP3 -enter=2000 -unlockname=僕が死のうと思ったのは;
 changeFigure:songs/僕が死のうと思ったのは.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
 setTextbox:on -next;
 ;

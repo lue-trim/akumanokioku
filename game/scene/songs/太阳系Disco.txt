@@ -2,7 +2,7 @@ setTextbox:hide -next;
 changeFigure: -left -next;
 changeFigure: -right -next;
 ;
-bgm:songs/玖乃-太阳系Disco.mp3 -enter=2000 -unlockname=心墙;
+bgm:songs/玖乃-太阳系Disco.mp3 -enter=2000 -unlockname=太阳系Disco;
 changeFigure:songs/太阳系Disco.png -transform={"scale":{"x":0.7,"y":0.7}} -next;
 setAnimation:enter-from-bottom -target=fig-center -next;
 setTextbox:on -next;

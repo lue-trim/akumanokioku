@@ -92,7 +92,7 @@ bgm:none;
 playVideo:难念的叽.mp4 -skipOff=true;
 setTextbox:on -next;
 bgm:夏日恶作剧变调.MP3 -volume=50;
-intro:感谢游玩！|程序丨脚本丨编剧丨导演：卤鹅菌|立绘：言牧|剪辑丨监制：茶茶壶x|参与：人壬菌|引擎：WebGAL|素材来源：直播间/Pixabay -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:感谢游玩！|程序丨脚本丨编剧丨导演：卤鹅菌|立绘：言牧|ED：贱术大师遮那|剪辑丨监制：茶茶壶x|参与：C调小行星、tetep_名無しさん、茶茶壶x、单推叽叽的夜辰、玖乃天下第一、麟昀、凌霜、卤鹅菌、墨霖喵、人壬菌、一只特立独行的猪咪-、银河可循|引擎：WebGAL|素材来源：直播间/Pixabay -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
 :祝叽叽六周年快乐！;
 end;
 ;
